@@ -1,0 +1,135 @@
+<!-- <tr>
+                    <td>Anand Patel</td>
+                    <td>Asst. Supt.</td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>anand@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Anil Kumar Sharma</td>
+                    <td>Sr. Manager</td>
+                    <td>System</td>
+                    <td>143</td>
+                    <td></td>
+                    <td>anil@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Pragnesh</td>
+                    <td></td>
+                    <td>System</td>
+                    <td>145</td>
+                    <td></td>
+                    <td>pragnesh@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Bakar Patel</td>
+                    <td></td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>bakar@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Yatin Patel</td>
+                    <td></td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>yatin@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Chinmay Patel</td>
+                    <td></td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>chinmay@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Chintan Patel</td>
+                    <td>Asst. Manager</td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>Chintan@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Ranjitsinh Rathod</td>
+                    <td></td>
+                    <td>System</td>
+                    <td>141</td>
+                    <td></td>
+                    <td>ranjit@sabardairy.coop</td>
+                  </tr>                
+                          
+                  <tr>
+                    <td>Saiyam Patel</td>
+                    <td>PA to Chairman</td>
+                    <td>MD Office</td>
+                    <td>103</td>
+                    <td></td>
+                    <td>chairman@sabardairy.coop</td>
+                  </tr>  
+
+                  <tr>
+                    <td>Kamlesh Prajapati</td>
+                    <td>PA to MD</td>
+                    <td>MD Office</td>
+                    <td>103</td>
+                    <td></td>
+                    <td>chairman@sabardairy.coop</td>
+                  </tr>  
+
+                  <tr>
+                    <td>N L Patel</td>
+                    <td>Sr. Manager</td>
+                    <td>HRD</td>
+                    <td>160</td>
+                    <td></td>
+                    <td>nlp@sabardairy.coop</td>
+                  </tr> 
+
+                  <tr>
+                    <td>Dr. Ashish Patel</td>
+                    <td></td>
+                    <td>HRD</td>
+                    <td>161</td>
+                    <td></td>
+                    <td>ashish.npatel@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Yogesh Patel</td>
+                    <td></td>
+                    <td>HRD</td>
+                    <td>161</td>
+                    <td></td>
+                    <td>yogesh@sabardairy.coop</td>
+                  </tr>
+                 
+                  <tr>
+                    <td>Jayesh Patel</td>
+                    <td></td>
+                    <td>HRD</td>
+                    <td>162</td>
+                    <td></td>
+                    <td>hrd@sabardairy.coop</td>
+                  </tr>
+
+                  <tr>
+                    <td>Hirak Patel</td>
+                    <td></td>
+                    <td>HRD</td>
+                    <td>162</td>
+                    <td></td>
+                    <td>hrd@sabardairy.coop</td>
+                  </tr>
+ -->
